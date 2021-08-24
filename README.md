@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakshitjambavalikar
-- 👀 I’m interested in python, machine learning, artificial intelligence
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on linkedin, github
+- 💞️ I’m looking forward to collaborate on linkedin, github
 - 📫 How to reach me --> mail me : rakshitjambavalikar@gmail.com ; linkedin: rakshit jambavalikar
 
 <!---
